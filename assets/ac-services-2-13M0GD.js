@@ -1,0 +1,1 @@
+import{D as e,l as t}from"./business-Iv-ArtzS.js";import{t as n}from"./ServiceList-CokBJwJk.js";var r=e(),i=()=>(0,r.jsx)(n,{category:`ac`,eyebrow:`AC services`,title:`Cool Comfort for Madurai Homes`,text:`Servicing, installation and cleaning for your air conditioner.`,art:(0,r.jsx)(t,{className:`w-80`})});export{i as component};
